@@ -1,0 +1,77 @@
+/* Dark Minimalist Theme */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #000000;
+    padding: 50px 20px;
+    border-bottom: 2px solid #222;
+}
+
+header h1 {
+    margin: 0;
+    color: #ffffff;
+    font-size: 2.8em;
+    letter-spacing: 1px;
+}
+
+header p {
+    color: #888888;
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+section {
+    padding: 50px 20px;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.profile-img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 3px solid #333;
+    object-fit: cover;
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: #ffffff;
+    border-bottom: 1px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 35px;
+}
+
+.project-card {
+    background-color: #1e1e1e;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border: 1px solid #2a2a2a;
+    text-align: left;
+}
+
+.project-card h3 {
+    margin-top: 0;
+    color: #ffffff;
+}
+
+.project-card p {
+    color: #cccccc;
+    line-height: 1.5;
+}
+
+footer {
+    background-color: #000000;
+    color: #555555;
+    padding: 20px;
+    margin-top: 40px;
+    border-top: 1px solid #222;
+}
